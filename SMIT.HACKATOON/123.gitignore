@@ -1,0 +1,17 @@
+# Local Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Rebuildable SQLite database and temporary build files
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.building
+*.building.sqlite
+
+# Windows Explorer metadata
+desktop.ini
+
+pipeline/SMiT PROJECT/
+/slides.pdf
